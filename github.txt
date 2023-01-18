@@ -1,0 +1,15 @@
+
+git config --global user.email imransanny619@gmail.com
+
+git config --global user.name imran619
+
+git hub:
+
+
+
+
+
+
+
+reabase your work ...same directory multile folder upload : git pull origin main
+push command: git push -u origin main
